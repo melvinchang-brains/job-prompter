@@ -71,4 +71,7 @@ const departments = {
     }
 }
 
-console.log("ook departments gelukt te koppelen");
+console.log("De afdeling Sales heeft medewerkers");
+console.log(" Marketing is een leuke afdeling om te werken. [beschrijving].");
+console.log("De afdeling Customer Service heeft 32 medewerkers");
+console.log("Sales is een uitdagende afdeling om te werken als Verkoopmanager. [description: \"Een verkoopmanager geeft leiding aan een team van verkoopprofessionals en is verantwoordelijk voor het stellen van verkoopdoelen, het ontwikkelen van verkoopstrategieën en het bewaken van de prestaties van het team. Ze bieden begeleiding, coaching en training aan het verkoopteam om het behalen van verkoopdoelstellingen te waarborgen. Verkoopmanagers werken ook samen met andere afdelingen, zoals marketing en productontwikkeling, om verkoopinspanningen af te stemmen op algemene bedrijfsdoelen.\"]")
